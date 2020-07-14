@@ -1,0 +1,14 @@
+# Dbmsassignment
+dbms project + report +labmanual
+  
+Roll no 205119075 Dbms lab project
+steps for running project
+1.download xampp
+start apache and mysql
+extract given folder and paste extract folder name project in htdocs to go htdocs open c drve(in which os installed
+) open xampp
+open phpmyadmin by opening link localhost in chrome or mozilla
+create new database name it hostel and import sql file from project click on go
+2.Now open link localhost/project/hostel
+Login Details for admin : nittadmin pwd nittadmin
+Login Details for user : shyam@gmail.com pwd shyam
